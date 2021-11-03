@@ -1,0 +1,94 @@
+{
+    "_id" : ObjectId("61808fb2f73372ba1fd36192"),
+    "nome" : "Epiphanio Dorea ",
+    "cnpj" : "12365467787879/0001-76",
+    "Tipo" : "Entidade Pública",
+    "telefone" : "(79) 3221-12112",
+    "Usuario" : [ 
+    {
+        "nome" : "Celso Bomfim",
+        "cpf" : "0389373939393838",
+        "telefone" : "(79) 99999-9999",
+        "Livro" : [ 
+            {
+                "titulo" : "Dom Casmurro",
+                "autor" : "Machado de Assis",
+                "dataHoraEmprestimo" : ISODate("2021-07-12T10:00:20.000Z")
+            }, 
+            {
+                "titulo" : "Dona Flor e seus dois maridos",
+                "autor" : "Jorge Amado",
+                "dataHoraEmprestimo" : ISODate("2021-07-12T10:00:20.000Z")
+            }
+        ]
+    }, 
+    {
+        "nome" : "Enzo Matheus",
+        "cpf" : "7893478598475798",
+        "telefone" : "(79) 99999-9999",
+        "Livro" : [ 
+            {
+                "titulo" : "Porto dos Milagres",
+                "autor" : "Machado de Assis",
+                "dataHoraEmprestimo" : ISODate("2021-07-12T10:00:20.000Z")
+            }
+        ]
+    }, 
+    {
+        "nome" : "Alana Cintia",
+        "cpf" : "0376786768768768",
+        "telefone" : "(79) 99999-9999",
+        "Livro" : [ 
+            {
+                "titulo" : "Senhora",
+                "autor" : "Machado de Assis",
+                "dataHoraEmprestimo" : ISODate("2021-07-12T10:00:20.000Z")
+            }
+        ]
+    }
+]
+}
+
+{
+    "_id" : ObjectId("61808fb2f73372ba1fd36193"),
+    "nome" : "EAtheneu",
+    "cnpj" : "123654565687879/0001-76",
+    "Tipo" : "Entidade Pública",
+    "telefone" : "(79) 3221-12112",
+    "Usuario" : [ 
+    {
+        "nome" : "Adonis Profanus",
+        "cpf" : "0389373939393838",
+        "telefone" : "(79) 99999-9999",
+         "Livro" : [ 
+            {
+                "titulo" : "Porto dos Milagres",
+                "autor" : "Machado de Assis",
+                "dataHoraEmprestimo" : ISODate("2021-07-12T11:00:20.000Z")
+            }
+        ]
+    }
+]
+}
+
+{
+    "_id" : ObjectId("61808fb2f73372ba1fd36194"),
+    "nome" : "Romero Brito",
+    "cnpj" : "123654565437879/0001-76",
+    "Tipo" : "Entidade Pública",
+    "telefone" : "(79) 3221-12112",
+    "Usuario" : [ 
+    {
+        "nome" : "Amadeus Mozart",
+        "cpf" : "0389373939393838",
+        "telefone" : "(79) 99999-9999",
+         "Livro" : [ 
+            {
+                "titulo" : "Porto dos Milagres",
+                "autor" : "Machado de Assis",
+                "dataHoraEmprestimo" : ISODate("2021-07-12T13:00:20.000Z")
+            }
+        ]
+    }
+]
+}
